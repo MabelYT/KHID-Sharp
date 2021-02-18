@@ -1,2 +1,2 @@
 # KHID#
-HKID#, The K H Insider Downloader Of Music Tracks And Albums, Written In C#.
+HKID#, The KHInsider Downloader Of Music Tracks And Albums, Written In C#.
